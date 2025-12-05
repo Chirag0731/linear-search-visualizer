@@ -88,6 +88,8 @@ To simplify the program:
 <img width="1912" height="893" alt="image" src="https://github.com/user-attachments/assets/899f6851-a487-4e00-aad1-66ca43092a8a" />
 <img width="1892" height="822" alt="image" src="https://github.com/user-attachments/assets/e63b9642-b5ea-45e2-a51b-b848162ee27c" />
 <img width="1903" height="886" alt="image" src="https://github.com/user-attachments/assets/0ce342a9-288d-4a6e-8ed8-7390181cbef8" />
+<img width="1882" height="752" alt="image" src="https://github.com/user-attachments/assets/0dbe340f-cc38-47d9-8a75-3595cf4c75ae" />
+
 
 
 
