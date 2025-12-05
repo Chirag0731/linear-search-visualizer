@@ -5,12 +5,12 @@
 
 ---
 
-# 🔗 Live Hugging Face App  
+# Live Hugging Face App  
 https://huggingface.co/spaces/Chirag0831/linear_search_project  
 
 ---
 
-# 📘 Project Overview
+# Project Overview
 
 This project is a **visual simulation of the Linear Search algorithm** using **Python + Gradio**.  
 The app takes a list of numbers and a target, then displays **each step** of the search algorithm.
@@ -19,7 +19,7 @@ The design uses a **red and black minimal theme** to make the interface clean an
 
 ---
 
-# 📂 Files Included
+# Files Included
 
 | File | Description |
 |------|-------------|
@@ -30,9 +30,9 @@ The design uses a **red and black minimal theme** to make the interface clean an
 
 ---
 
-# 🧠 Computational Thinking Breakdown
+# Computational Thinking Breakdown
 
-## 1️⃣ Decomposition
+## Decomposition
 The project was divided into smaller tasks:
 - Build linear search algorithm that logs steps
 - Process user input safely
@@ -43,7 +43,7 @@ The project was divided into smaller tasks:
 
 ---
 
-## 2️⃣ Pattern Recognition
+## Pattern Recognition
 Linear Search follows a common algorithm pattern:
 - Loop through list
 - Compare items one-by-one
@@ -52,7 +52,7 @@ Linear Search follows a common algorithm pattern:
 
 ---
 
-## 3️⃣ Abstraction
+## Abstraction
 To simplify the program:
 - The search logic is isolated inside `linear_search()`
 - UI processing is handled in `run_search()`
@@ -60,7 +60,7 @@ To simplify the program:
 
 ---
 
-## 4️⃣ Algorithm Design
+## Algorithm Design
 
 ### **Linear Search Steps:**
 1. Begin at index 0  
@@ -71,10 +71,10 @@ To simplify the program:
 
 ---
 
-# 🔄 Flowchart
+# Flowchart
 
 
-# 🧪 Edge Case Testing
+# Edge Case Testing
 
 | Case | Input | Expected Result |
 |------|--------|----------------|
@@ -86,5 +86,8 @@ To simplify the program:
 
 # Screenshots:
 <img width="1912" height="893" alt="image" src="https://github.com/user-attachments/assets/899f6851-a487-4e00-aad1-66ca43092a8a" />
+<img width="1892" height="822" alt="image" src="https://github.com/user-attachments/assets/e63b9642-b5ea-45e2-a51b-b848162ee27c" />
+<img width="1903" height="886" alt="image" src="https://github.com/user-attachments/assets/0ce342a9-288d-4a6e-8ed8-7390181cbef8" />
+
 
 
