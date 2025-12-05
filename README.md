@@ -84,3 +84,7 @@ To simplify the program:
 | Found last index | `1 2 9`, target `9` | index `2` |
 | Negative numbers | `-1 -3 5`, target `-3` | index `1` |
 
+# Screenshots:
+<img width="1912" height="893" alt="image" src="https://github.com/user-attachments/assets/899f6851-a487-4e00-aad1-66ca43092a8a" />
+
+
