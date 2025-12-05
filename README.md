@@ -73,3 +73,14 @@ To simplify the program:
 
 # 🔄 Flowchart
 
+
+# 🧪 Edge Case Testing
+
+| Case | Input | Expected Result |
+|------|--------|----------------|
+| Empty list | `""` | Error message |
+| Not found | `1 2 3`, target `5` | “Not found” |
+| Found first index | `5 4 3 2`, target `5` | index `0` |
+| Found last index | `1 2 9`, target `9` | index `2` |
+| Negative numbers | `-1 -3 5`, target `-3` | index `1` |
+
