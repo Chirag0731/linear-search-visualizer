@@ -2,6 +2,7 @@
 **Author:** Chirag Tilwani  
 **Course:** CISC 121  
 **Assignment:** Algorithm Visualization Project  
+**AI usage:** Used AI level 4 with ChatGPT 5 for many parts of the project.
 
 ---
 
