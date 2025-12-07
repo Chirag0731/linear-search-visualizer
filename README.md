@@ -72,7 +72,9 @@ To simplify the program:
 
 ---
 
-# Flowchart
+# Flowchart ( made using draw.io)
+![linear search](https://github.com/user-attachments/assets/dbe749db-df9e-4c74-8414-df5129f135ac)
+
 
 
 # Edge Case Testing
